@@ -182,4 +182,4 @@ On branch master
 nothing to commit, working tree clean
 
 maver@LAPTOP-J4VHBM7H MINGW64 ~/Desktop/CODE/GitTutorialsKK (master)
-$
+changing this through git bash
